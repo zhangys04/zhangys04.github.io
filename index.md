@@ -22,4 +22,11 @@ I am a Ph.D. Candidate in Computer Science and Technology, conducting research i
 - Sep 2008 - Dec 2010: M.Eng, National University of Defense Technology
 - Sep 2004 - Aug 2008: B.Eng, Tsinghua University
 
+## Patent
+- **2022:** An End-to-End Lightweight Model Search Method and System Based on Latent Space Mapping for Edge Intelligence. CN(Patent)202111334686.4
+- **2022:** A Multi-Search Space Adaptive Neural Network Architecture Representation Learning Method and System. CN(Patent)202111334705.3
+- **2022:** A Method and System for Extracting and Representing Features of Directed Graph Data Based on Incidence Matrices. CN(Patent)202211066764.1
+- **2023:** A Unified Identity Authentication Approach, Device, and Medium for Operating System Platforms. CN(Patent)202311042621.1
+- **2023:** A Graph-Based System User Management Method, System, and Medium for Operating System. CN(Patent)202310720279.X
+
 {% include_relative _includes/publications.md %}
