@@ -1,16 +1,9 @@
-## Services
+## Projects
 
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
-
+<h4 style="margin:0 10px 0;">Research on Multimodal Data Representation Learning and Its Applications</h4>
+Supported by National Natural Science Foundation of China, Grant No. 62002371
+<Strong>Participant</Strong>
 <ul style="margin:0 0 5px;">
-  <li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021-2023</autocolor></a></li>
-  <li><a href="http://iccv2021.thecvf.com/"><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV) 2021</autocolor></a></li>
-  <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
-</ul>
-
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
-
-<ul style="margin:0 0 20px;">
-  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
-  <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
+  <li><autocolor>Timeline: 2021 – Present</autocolor></a></li>
+  <li><autocolor>Introduction: The fault information of operation system is typically recorded in system logs, while trace data captures various event information during the operation of the OS. To enhance the fault diagnosis capability for OS, I first design a multimodal representation learning model to extract fault features from log data and trace data. Based on this, I implement an anomaly detection application using an autoencoder, enabling efficient fault detection for OS.</autocolor></a></li>
 </ul>
