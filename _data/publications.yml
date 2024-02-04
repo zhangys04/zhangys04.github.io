@@ -1,31 +1,12 @@
 main:
 
-  - title: Evaluation Ranking is More Important for NAS
-    authors: Yusen Zhang, Bao Li, Songlei Jian, Yusong Tan
-    conference_short: IJCNN
-    conference: International Joint Conference on Neural Network <strong>(IJCNN)</strong>, 2022.
-    image: ./assets/img/ijcnn2022.png
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    
-
-  - title: DGLP: Incorporating Orientation Information for Enhanced Link Prediction in Directed Graphs
-    authors: Yusen Zhang, Yusong Tan, Songlei Jian, Qingbo Wu, Kenli Li
-    conference_short: ICASSP
-    conference: IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2024.
-    image: ./assets/img/icassp2024.png
-    notes: Early Accept
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-
-  - title: MACA: Memory-aware convolution accelerating for CNNs inference on edge devices
-    authors: ChaoXiong Yi, Songlei Jian, Yusong Tan, Yusen Zhang
-    conference_short: CSCWD
-    conference: International Conference on Computer Supported Cooperative Work in Design <strong>(CSCWD)</strong>, 2024.
-    image: ./assets/img/cscwd2024.png
-    notes: Early Accept
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+    - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
+      authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+      conference_short: CVPR
+      conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+      pdf: https://arxiv.org/pdf/2002.10211.pdf
+      code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+      page: https://class-il.mpi-inf.mpg.de/mnemonics/
+      bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+      notes: Oral Presentation
+      image: ./assets/img/teaser_example.png
