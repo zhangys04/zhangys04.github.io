@@ -2,22 +2,23 @@
 title: Yusen ZHANG
 position: Ph.D. Candidate
 affiliation: National University of Defense Technology
+address: Changsha, Hunan
 email: zhangys04@nudt.edu.cn
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Yuksam Cheung, Yusen Zhang, Yusen ZHANG
+description: This is the academic personal homepage of Yusen Zhang.
+canonical: https://zhangys04.github.io
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=Cp9d-ZwAAAAJ&hl=en
-# cv_link: assets/files/curriculum_vitae.pdf
+cv_link: assets/files/zhangCV.pdf
 # github_link: https://github.com/
 linkedin: https://www.linkedin.com/in/yuksam-cheung-b6295179/
 twitter: https://twitter.com/zhangys04/
-facebook: https://www.facebook.com/yuksam.cheung
+# facebook: https://www.facebook.com/yuksam.cheung
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
@@ -27,7 +28,7 @@ favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: true
+# enable_footnote: true
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme
